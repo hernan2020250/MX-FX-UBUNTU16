@@ -1,5 +1,6 @@
  # 🐲 SCRIPT VPS&bull;MX &reg;️ 8.5 🐲
 ## _SCRIPT FINALIZADO EN NOVIEMBRE 2021_
+## _SCRIP BY ENRIQUE
 
 <p dir="auto"><img src="https://raw.githubusercontent.com/NetVPS/VPS-MX_Oficial/master/SCREEN-ALL/VPS-MXOF.png" alt="" width="500" height="408" /></p>
 <p dir="auto" style="text-align: center;"><strong>VPS-MX 8.5 OFICIAL</strong></p>
